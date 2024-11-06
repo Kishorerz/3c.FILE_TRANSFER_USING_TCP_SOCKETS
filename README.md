@@ -83,7 +83,8 @@ server_socket.close()
 
 ~~~
 ## OUPUT
-![WhatsApp Image 2024-10-21 at 09 06 35_6285f945](https://github.com/user-attachments/assets/23461039-54ce-4446-895e-48ecced36e2a)
+![Output](https://github.com/user-attachments/assets/a2072ab7-de52-43cd-99d5-d768ac5c3b4f)
+
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
